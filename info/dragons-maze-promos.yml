@@ -1,0 +1,18 @@
+---
+object: set
+id: d29698eb-32e4-448f-977f-aa9b31c408b5
+code: pdgm
+name: Dragon's Maze Promos
+uri: https://api.scryfall.com/sets/d29698eb-32e4-448f-977f-aa9b31c408b5
+scryfall_uri: https://scryfall.com/sets/pdgm
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdgm&unique=prints
+released_at: '2013-04-27'
+set_type: promo
+card_count: 6
+parent_set_code: dgm
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: rtr
+block: Return to Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/dgm.svg?1694404800
